@@ -38,6 +38,8 @@
 
 ---
 
+<img src="https://ghchart.rshah.org/PriyaDharshini22-2005">
+
 ## 📫 Connect with Me
 
 <p>
