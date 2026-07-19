@@ -38,11 +38,11 @@
 
 ---
 
-## 💭 Quote
+## 📈 GitHub Contributions
 
-> *"Code with purpose. Learn continuously. Build solutions that make an impact."*
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaDharshini22-2005&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
 
 ## 📫 Connect with Me
 
