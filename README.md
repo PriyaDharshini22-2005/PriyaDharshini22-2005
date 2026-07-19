@@ -41,7 +41,7 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDharshini22-2005&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyaDharshini22-2005&theme=github_dark" />
 </p>
 
 ## 📫 Connect with Me
