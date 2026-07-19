@@ -38,10 +38,10 @@
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyaDharshini22-2005&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PriyaDharshini22-2005&theme=github_dark" />
 </p>
 
 ## 📫 Connect with Me
