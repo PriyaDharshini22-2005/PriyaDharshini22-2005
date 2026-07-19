@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+A.+Priyadharshini;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning+New+Technologies+🚀" />
+<img src="https://leetcard.jacoblin.cool/Priya_dharshini_A?theme=dark&font=Poppins&ext=contest">
 </p>
 
 ## 📫 Connect with Me
