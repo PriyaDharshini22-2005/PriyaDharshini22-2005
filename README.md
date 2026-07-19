@@ -41,7 +41,7 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyaDharshini22-2005&theme=tokyonight&hide_border=true&hide_total_contributions=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PriyaDharshini22-2005&theme=github_dark" />
 </p>
 
 ## 📫 Connect with Me
