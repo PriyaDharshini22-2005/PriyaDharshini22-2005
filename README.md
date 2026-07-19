@@ -2,14 +2,6 @@
 
 <h3 align="center">AI & Machine Learning Enthusiast | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Full-Stack+Development;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriyaDharshini22-2005&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
