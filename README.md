@@ -38,9 +38,11 @@
 
 ---
 
-## 📈 GitHub Contributions
+## 📊 GitHub Contributions
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDharshini22-2005&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📫 Connect with Me
 
