@@ -38,10 +38,6 @@
 
 ---
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Priya_dharshini_A?theme=dark&font=Poppins&ext=contest">
-</p>
-
 ## 📫 Connect with Me
 
 <p>
