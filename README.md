@@ -1,6 +1,6 @@
 # Hi there 👋, I'm A. Priyadharshini
 
-<h3 align="center">AI & Machine Learning Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">AI & ML Enthusiast | Full-Stack Developer</h3>
 
 ---
 
