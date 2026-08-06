@@ -22,7 +22,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/💼%20Internship%20Experience-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </p>
-##  Internship Experience
 
 - **AI Intern** | **HCL Technologies** *(Nov 2024 – Feb 2025, Onsite)*
   - Built **GODSEYE**, an industrial defect detection system using multiple **YOLOv11** pipelines, achieving ~20% improved detection accuracy.
