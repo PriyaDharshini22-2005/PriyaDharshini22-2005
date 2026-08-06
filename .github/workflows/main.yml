@@ -1,0 +1,25 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pacman:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: PriyaDharshini22-2005
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
