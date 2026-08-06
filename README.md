@@ -3,9 +3,7 @@
 <h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Testing</h3>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PriyaDharshini22-2005/PriyaDharshini22-2005/main/assets/banner.svg" width="100%">
-</p>
+
 ## About Me
 
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
