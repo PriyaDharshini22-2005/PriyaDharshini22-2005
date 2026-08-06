@@ -5,7 +5,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:141E30,100:243B55&text=🤖%20AI%20%26%20Machine%20Learning%20%20|%20%20💻%20Full-Stack%20Development%20%20|%20%20🧪%20QA%20Automation&fontColor=ffffff&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=55&width=220&text=🤖%20AI%20%26%20ML&fontSize=18&color=0:7F00FF,100:E100FF&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=55&width=260&text=💻%20Full-Stack%20Developer&fontSize=18&color=0:00C6FF,100:0072FF&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=55&width=220&text=🧪%20QA%20Automation&fontSize=18&color=0:11998E,100:38EF7D&fontColor=ffffff"/>
 </p>
 
 
