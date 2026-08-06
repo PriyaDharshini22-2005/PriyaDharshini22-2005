@@ -1,0 +1,45 @@
+<svg width="600" height="60" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#312E81"/>
+<stop offset="100%" stop-color="#2563EB"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="3"/>
+</filter>
+
+</defs>
+
+<rect rx="15" width="600" height="60" fill="#0F172A"/>
+
+<rect rx="15" width="600" height="60"
+fill="url(#grad)"
+opacity="0.18"/>
+
+<text
+x="300"
+y="38"
+text-anchor="middle"
+font-size="22"
+fill="#E2E8F0"
+font-family="Poppins">
+
+📫 Connect With Me
+
+</text>
+
+<line x1="100" y1="50" x2="500" y2="50"
+stroke="#60A5FA"
+stroke-width="2">
+
+<animate attributeName="x2"
+values="100;500"
+dur="2s"
+repeatCount="1"/>
+
+</line>
+
+</svg>
