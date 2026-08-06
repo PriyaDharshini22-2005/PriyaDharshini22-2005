@@ -3,13 +3,8 @@
 <h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Testing</h3>
 
 ---
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=55&width=220&text=🤖%20AI%20%26%20ML&fontSize=18&color=0:7F00FF,100:E100FF&fontColor=ffffff"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=55&width=260&text=💻%20Full-Stack%20Developer&fontSize=18&color=0:00C6FF,100:0072FF&fontColor=ffffff"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=55&width=220&text=🧪%20QA%20Automation&fontSize=18&color=0:11998E,100:38EF7D&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:0F2027,50:203A43,100:2C5364&text=🧠%20AI%20%26%20ML%20•%20💻%20Full-Stack%20•%20🧪%20Testing&fontColor=ffffff&fontSize=22"/>
 </p>
 
 
