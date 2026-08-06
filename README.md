@@ -4,10 +4,8 @@
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:0F2027,50:203A43,100:2C5364&text=🧠%20AI%20%26%20ML%20•%20💻%20Full-Stack%20•%20🧪%20Testing&fontColor=ffffff&fontSize=22"/>
+  <img src="https://raw.githubusercontent.com/PriyaDharshini22-2005/PriyaDharshini22-2005/main/assets/banner.svg" width="100%">
 </p>
-
-
 ## About Me
 
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
