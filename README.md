@@ -1,7 +1,3 @@
-# Hi there 👋, I'm A. Priyadharshini
-<p align="center">
-
-<h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Testing</h3>
 
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Banner">
