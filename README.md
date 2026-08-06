@@ -35,6 +35,10 @@
 ---
 ##  Languages
 
+<p align="center">
+<img src="https://img.shields.io/badge/💻%20Programming%20Languages-0F766E?style=for-the-badge"/>
+</p>
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
