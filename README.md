@@ -28,14 +28,6 @@
   - Developed a **RAG pipeline** using **PromptFlow, AstraDB, OpenAI SDK, LlamaIndex,** and **Neo4j** for intelligent document retrieval.
 
 ---
-
-##  Achievements
-
--  **Finalist** – Intel® oneAPI AI Hackathon
--  Rajya Puraskar Awardee – Bharat Scouts & Guides
-  
----
-
 ##  Languages
 
 <p>
@@ -57,6 +49,12 @@
 <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
+
+---
+##  Achievements
+
+-  **Finalist** – Intel® oneAPI AI Hackathon
+-  Rajya Puraskar Awardee – Bharat Scouts & Guides
 
 ---
 
