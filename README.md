@@ -83,14 +83,6 @@
 </p>
 
 ---
-## 👾 Pacman Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PriyaDharshini22-2005/PriyaDharshini22-2005/output/pacman-contribution-graph.svg">
-</p>
-
-<div align="center">
-
 ###  Thanks for visiting my profile!
 
 *"Building intelligent AI solutions with curiosity and creativity."*
