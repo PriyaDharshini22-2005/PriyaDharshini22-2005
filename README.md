@@ -4,8 +4,10 @@
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=💜%20Code.%20Learn.%20Innovate.&fontSize=22&color=0:8E2DE2,100:4A00E0&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6A11CB,100:2575FC&text=Hi%20there,%20I'm%20A.%20Priyadharshini&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Developer%20%7C%20QA%20Automation&descAlignY=58&descSize=18"/>
 </p>
+
+
 ## About Me
 
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
