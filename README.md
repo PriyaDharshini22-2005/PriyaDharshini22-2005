@@ -14,12 +14,14 @@
 
  **CGPA:** **8.84/10**
 
- Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, and Full-Stack Development.
+ Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Full-Stack Development and testing.
 
  I enjoy building intelligent applications that solve real-world problems while continuously exploring emerging technologies.
 
 ---
-
+<p align="center">
+<img src="https://img.shields.io/badge/💼%20Internship%20Experience-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</p>
 ##  Internship Experience
 
 - **AI Intern** | **HCL Technologies** *(Nov 2024 – Feb 2025, Onsite)*
