@@ -33,7 +33,6 @@
   - Developed a **RAG pipeline** using **PromptFlow, AstraDB, OpenAI SDK, LlamaIndex,** and **Neo4j** for intelligent document retrieval.
 
 ---
-##  Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/💻%20Programming%20Languages-0F766E?style=for-the-badge"/>
@@ -46,6 +45,9 @@
 ---
 
 ##  Tools & Technologies
+<p align="center">
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-7C3AED?style=for-the-badge"/>
+</p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,docker,git,github,mysql,postgres,aws,vscode,tensorflow,pytorch,supabase" />
