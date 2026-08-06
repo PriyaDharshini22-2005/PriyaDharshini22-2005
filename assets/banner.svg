@@ -1,0 +1,123 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" rx="25" fill="url(#bg)"/>
+
+  <!-- Animated Stars -->
+  <circle cx="90" cy="40" r="2" fill="white">
+      <animate attributeName="opacity"
+          values="0;1;0"
+          dur="2s"
+          repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1100" cy="70" r="2" fill="white">
+      <animate attributeName="opacity"
+          values="1;0;1"
+          dur="3s"
+          repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1050" cy="210" r="2" fill="white">
+      <animate attributeName="opacity"
+          values="0;1;0"
+          dur="2.5s"
+          repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="170" cy="200" r="2" fill="white">
+      <animate attributeName="opacity"
+          values="1;0;1"
+          dur="4s"
+          repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="980" cy="35" r="2" fill="#7DD3FC">
+      <animate attributeName="opacity"
+          values="0;1;0"
+          dur="5s"
+          repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Name -->
+  <text
+      x="600"
+      y="105"
+      text-anchor="middle"
+      font-size="42"
+      font-family="Poppins,Arial"
+      font-weight="700"
+      fill="url(#text)"
+      filter="url(#glow)">
+
+      A. Priyadharshini
+
+      <animate
+          attributeName="opacity"
+          values="0;1"
+          dur="1.5s"
+          fill="freeze"/>
+
+  </text>
+
+  <!-- Subtitle -->
+  <text
+      x="600"
+      y="155"
+      text-anchor="middle"
+      font-size="22"
+      font-family="Poppins,Arial"
+      fill="#E2E8F0">
+
+      🤖 AI &amp; Machine Learning • 💻 Full-Stack Development • 🧪 Software Testing
+
+      <animate
+          attributeName="opacity"
+          values="0;1"
+          begin="0.8s"
+          dur="1.2s"
+          fill="freeze"/>
+
+  </text>
+
+  <!-- Animated Underline -->
+  <line
+      x1="350"
+      y1="185"
+      x2="850"
+      y2="185"
+      stroke="#7C3AED"
+      stroke-width="3">
+
+      <animate
+          attributeName="x2"
+          values="350;850"
+          dur="2s"
+          fill="freeze"/>
+
+  </line>
+
+</svg>
