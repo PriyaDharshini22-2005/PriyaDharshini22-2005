@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4B0082,100:000428&height=220&text=A.%20Priyadharshini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=65"/>
+</p>
+
+
+
 ## About Me
 
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
