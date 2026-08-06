@@ -74,10 +74,10 @@
 ---
 
 ##  Connect with Me
-
 <p align="center">
   <img src="./assets/connect-banner.svg" width="600"/>
 </p>
+
 
 <p>
 
