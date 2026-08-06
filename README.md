@@ -4,9 +4,8 @@
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=🤖%20AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&fontSize=22&color=0:667eea,100:764ba2&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=✨%20Building%20Intelligent%20Solutions&fontSize=22&color=0:f093fb,100:f5576c&fontColor=ffffff"/>
 </p>
-
 ## About Me
 
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
