@@ -66,8 +66,9 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/🏆%20Achievements-6B7280?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆%20Achievements-64748B?style=for-the-badge&logoColor=white"/>
 </p>
+
 
 -  **Finalist** – Intel® oneAPI AI Hackathon
 -  Rajya Puraskar Awardee – Bharat Scouts & Guides
