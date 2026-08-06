@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=🧠%20Computer%20Vision%20•%20Generative%20AI%20•%20ML&fontSize=20&color=0:141E30,100:243B55&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=💜%20Code.%20Learn.%20Innovate.&fontSize=22&color=0:8E2DE2,100:4A00E0&fontColor=ffffff"/>
 </p>
 ## About Me
 
