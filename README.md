@@ -1,17 +1,11 @@
 # Hi there 👋, I'm A. Priyadharshini
 <p align="center">
 
-# ✨ A. Priyadharshini ✨
-
-💜 AI • ML • Full Stack • Testing
-
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Solutions...;Learning+Something+New+Everyday+🚀" />
-</p>
 <h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Testing</h3>
 
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Banner">
+</p>
 ---
 
 ## About Me
