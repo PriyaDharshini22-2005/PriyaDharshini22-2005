@@ -3,9 +3,11 @@
 <h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Testing</h3>
 
 ---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=🤖%20AI%20%26%20ML%20•%20Full-Stack%20Developer%20•%20QA%20Automation&fontSize=20&color=0:141E30,100:243B55&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:141E30,100:243B55&text=🤖%20AI%20%26%20Machine%20Learning%20%20|%20%20💻%20Full-Stack%20Development%20%20|%20%20🧪%20QA%20Automation&fontColor=ffffff&fontSize=20"/>
 </p>
+
 
 ## About Me
 
