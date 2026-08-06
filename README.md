@@ -4,9 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/gifs/stars.gif" width="100%" />
-</p>
 ## About Me
 
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
