@@ -66,8 +66,9 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=45&text=🏆%20Achievements&fontSize=20&color=64748B&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=45&text=🏆%20Achievements&fontSize=20&color=64748B&fontColor=ffffff"/>
 </p>
+
 -  **Finalist** – Intel® oneAPI AI Hackathon
 -  Rajya Puraskar Awardee – Bharat Scouts & Guides
 
