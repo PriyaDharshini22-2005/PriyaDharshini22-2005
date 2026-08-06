@@ -4,19 +4,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
+ B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
 
-📊 **CGPA:** **8.84/10**
+ **CGPA:** **8.84/10**
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, and Full-Stack Development.
+ Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, and Full-Stack Development.
 
-🚀 I enjoy building intelligent applications that solve real-world problems while continuously exploring emerging technologies.
+ I enjoy building intelligent applications that solve real-world problems while continuously exploring emerging technologies.
 
 ---
 
-## 💼 Internship Experience
+##  Internship Experience
 
 - **AI Intern** | **HCL Technologies** *(Nov 2024 – Feb 2025, Onsite)*
   - Built **GODSEYE**, an industrial defect detection system using multiple **YOLOv11** pipelines, achieving ~20% improved detection accuracy.
@@ -29,14 +29,14 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥈 **Finalist** – Intel® oneAPI AI Hackathon
-- 🏅 Rajya Puraskar Awardee – Bharat Scouts & Guides
+-  **Finalist** – Intel® oneAPI AI Hackathon
+-  Rajya Puraskar Awardee – Bharat Scouts & Guides
   
 ---
 
-## 💻 Languages
+##  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,docker,git,github,mysql,postgres,aws,vscode,tensorflow,pytorch,supabase" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *"Building intelligent AI solutions with curiosity and creativity."*
 
