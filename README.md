@@ -56,7 +56,6 @@
 </p>
 
 ---
-##  Achievements
 <p align="center">
 <img src="https://img.shields.io/badge/🏆%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
