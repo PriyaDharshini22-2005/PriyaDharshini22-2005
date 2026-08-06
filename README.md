@@ -42,9 +42,7 @@
 ---
 
 ##  Tools & Technologies
-<p align="center">
-━━━━━━━━━━━━━━ 🛠️ Tools & Technologies ━━━━━━━━━━━━━━
-</p>
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,docker,git,github,mysql,postgres,aws,vscode,tensorflow,pytorch,supabase" />
 </p>
@@ -59,6 +57,9 @@
 
 ---
 ##  Achievements
+<p align="center">
+<img src="https://img.shields.io/badge/🏆%20Achievements-F59E0B?style=for-the-badge"/>
+</p>
 
 -  **Finalist** – Intel® oneAPI AI Hackathon
 -  Rajya Puraskar Awardee – Bharat Scouts & Guides
