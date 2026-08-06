@@ -81,11 +81,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDharshini22-2005&show_icons=true&theme=tokyonight" />
-</p>
-
----
 ###  Thanks for visiting my profile!
 
 *"Building intelligent AI solutions with curiosity and creativity."*
