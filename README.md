@@ -1,6 +1,14 @@
 # Hi there 👋, I'm A. Priyadharshini
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+A.+Priyadharshini;🤖+AI+%26+ML+Enthusiast;💻+Full-Stack+Developer;🧪+QA+Automation+Engineer" />
+
+# ✨ A. Priyadharshini ✨
+
+💜 AI • ML • Full Stack • Testing
+
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Solutions...;Learning+Something+New+Everyday+🚀" />
 </p>
 <h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Testing</h3>
 
