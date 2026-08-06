@@ -5,6 +5,10 @@
 
 ## About Me
 
+<p align="center">
+<img src="https://img.shields.io/badge/👩‍💻%20About%20Me-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
  B.E. Computer Science Engineering (AI & ML) student at **Chennai Institute of Technology** (2023–2027)
 
  **CGPA:** **8.84/10**
