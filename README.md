@@ -81,6 +81,13 @@
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyaDharshini22-2005&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+---
 ###  Thanks for visiting my profile!
 
 *"Building intelligent AI solutions with curiosity and creativity."*
