@@ -48,7 +48,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/🛠️%20Tech%20Stack-475569?style=for-the-badge&logoColor=white"/>
 </p>
----
+
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,docker,git,github,mysql,postgres,aws,vscode,tensorflow,pytorch,supabase" />
@@ -64,9 +65,8 @@
 
 ---
 <p align="center">
-<img src="https://img.shields.io/badge/🏆%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆%20Achievements-2563EB?style=for-the-badge&logoColor=white"/>
 </p>
-
 
 -  **Finalist** – Intel® oneAPI AI Hackathon
 -  Rajya Puraskar Awardee – Bharat Scouts & Guides
