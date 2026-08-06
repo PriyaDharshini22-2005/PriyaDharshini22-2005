@@ -4,9 +4,8 @@
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=A.%20Priyadharshini&fontColor=ffffff&fontSize=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=🤖%20AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&fontSize=22&color=0:667eea,100:764ba2&fontColor=ffffff"/>
 </p>
-
 
 ## About Me
 
