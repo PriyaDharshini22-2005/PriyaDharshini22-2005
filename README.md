@@ -3,6 +3,8 @@
   <img src="assets/banner.svg" width="100%" alt="Banner">
 </p>
 
+----
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/👩‍💻%20About%20Me-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
