@@ -82,9 +82,8 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyaDharshini22-2005&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDharshini22-2005&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
-
 ---
 ###  Thanks for visiting my profile!
 
