@@ -42,7 +42,9 @@
 ---
 
 ##  Tools & Technologies
-
+<p align="center">
+━━━━━━━━━━━━━━ 🛠️ Tools & Technologies ━━━━━━━━━━━━━━
+</p>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,docker,git,github,mysql,postgres,aws,vscode,tensorflow,pytorch,supabase" />
 </p>
@@ -64,10 +66,6 @@
 ---
 
 ##  Connect with Me
-<p align="center">
-<img src="https://img.shields.io/badge/📫%20Connect%20With%20Me-DB2777?style=for-the-badge"/>
-</p>
-
 <p>
 
 <a href="https://github.com/PriyaDharshini22-2005">
