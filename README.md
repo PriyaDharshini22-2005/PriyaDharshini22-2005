@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/🏆%20Achievements-64748B?style=plastic"/>
+<img src="https://img.shields.io/badge/🏆%20Achievements-92400E?style=for-the-badge&logoColor=white"/>
 </p>
 
 -  **Finalist** – Intel® oneAPI AI Hackathon
